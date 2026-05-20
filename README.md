@@ -15,3 +15,8 @@ Este projeto consiste no desenvolvimento do código-fonte e mapeamento lógico d
 
 ## 📌 Status do Projeto
 O foco desta etapa consistiu na validação da viabilidade técnica da eletrônica. O código foi finalizado e os testes de acionamento de potência com os MOSFETs e eletroímãs foram concluídos com sucesso.
+
+## 🔌 Diagrama Elétrico (Versão Conceitual)
+Abaixo está o esquemático do circuito. *Nota: Este mapeamento inicial foi projetado tendo o ESP8266 como controlador base, demonstrando a versatilidade da lógica que posteriormente foi adaptada para o Arduino no código final.*
+
+![Diagrama Elétrico do Projeto](Schematic_Projeto-Bastoes_2026-02-10.png)
